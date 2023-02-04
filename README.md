@@ -1,4 +1,4 @@
-# Book Finder
+# Book Search Engine
 
 ## Description
 
@@ -16,8 +16,8 @@ Refactor a fully functioning Google Books API search engine built with a RESTful
 
 ## Usage
 
-- View on [Heroku]
-  ![BookFinder]
+- View on [Heroku](https://warm-lowlands-09135.herokuapp.com/)
+  ![Book_Search_Engine](/assets/images/book_search_screenshot.png)
 
 ## User Story
 
@@ -81,7 +81,7 @@ UT Web Development Bootcamp
 
 MIT License
 
-Copyright (c) [2022] [fightingwards]
+Copyright (c) [2023] [fightingwards]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
